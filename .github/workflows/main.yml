@@ -1,4 +1,4 @@
-name: Ryan FC Evolution - Android APK
+name: Ryan FC Evolution Android APK
 
 on:
 workflow_dispatch:
